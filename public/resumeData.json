@@ -54,28 +54,40 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Java",
         "level": "100%"
       },
       {
-        "name": "CSS",
+        "name": "Spring",
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "RESTful APIs",
+        "level": "95%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
+        "name": " PostgreSQL",
         "level": "80%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
       }
     ]
   },
@@ -92,6 +104,12 @@
         "category": "Academic project that builds an AI for tic-tac-toe.",
         "image": "tic_tac_toe.jpg",
         "url": "https://github.com/mostzac/CSCI-6511-tic-tac-toe"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "An amazon clone project with Firebase.",
+        "image": "amazon-clone.png",
+        "url": "https://clone-d73b5.web.app/"
       }
     ]
   },
